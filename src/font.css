@@ -1,0 +1,271 @@
+@charset "utf-8";
+
+
+
+/* Clarity City */
+@font-face{
+  font-family: 'ClarityCity';
+  font-weight: 400;
+  src:url('font/ClarityCity-Regular.woff') format('woff')
+}
+@font-face{
+  font-family: 'ClarityCity';
+  font-weight: 500;
+  src:url('font/ClarityCity-Medium.woff') format('woff')
+}
+@font-face{
+  font-family: 'ClarityCity';
+  font-weight: 600;
+  src:url('font/ClarityCity-SemiBold.woff') format('woff')
+}
+
+
+
+/* Madreu */
+@font-face{
+  font-family: 'Madreu';
+  src:url('font/Madreu.woff') format('woff')
+}
+
+
+
+/* 노토산스 */
+@font-face{
+  font-family: 'NotoSansKR';
+  font-weight: 400;
+  src:url('font/NotoSansKR-Regular.woff') format('woff');
+  unicode-range: U+AC00-D7A3;
+}
+@font-face{
+  font-family: 'NotoSansKR';
+  font-weight: 500;
+  src:url('font/NotoSansKR-Medium.woff') format('woff')
+}
+@font-face{
+  font-family: 'NotoSansKR';
+  font-weight: 600;
+  src:url('font/NotoSansKR-Bold.woff') format('woff')
+}
+
+
+
+/* 나눔스퀘어네오 */
+@font-face{
+  font-family: 'NanumNeo';
+  font-weight: 300;
+  src:url('font/NanumSquareNeoTTF-aLt.woff') format('woff')
+}
+
+@font-face{
+  font-family: 'NanumNeo';
+  font-weight: 400;
+  src:url('font/NanumSquareNeoTTF-bRg.woff') format('woff');
+  unicode-range: U+AC00-D7A3;
+}
+
+@font-face{
+  font-family: 'NanumNeo';
+  font-weight: 500;
+  src:url('font/NanumSquareNeoTTF-cBd.woff') format('woff')
+}
+
+@font-face{
+  font-family: 'NanumNeo';
+  font-weight: 600;
+  src:url('font/NanumSquareNeoTTF-dEb.woff') format('woff')
+}
+
+@font-face{
+  font-family: 'NanumNeo';
+  font-weight: 700;
+  src:url('font/NanumSquareNeoTTF-eHv.woff') format('woff')
+}
+
+
+/* Pretendard */
+@font-face {
+  font-family: 'Pretendard';
+  src: url('font/Pretendard-ExtraLight.woff') format('woff');
+  font-weight: 300;
+}
+@font-face {
+  font-family: 'Pretendard';
+  src: url('font/Pretendard-Light.woff') format('woff');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'Pretendard';
+  src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+  font-weight: 500;
+}
+
+
+/* WorkSans */
+@font-face {
+  font-family: 'WorkSans';
+  src: url('font/WorkSans-Regular.woff') format('woff');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'WorkSans';
+  src: url('font/WorkSans-Medium.woff') format('woff');
+  font-weight: 500;
+}
+
+
+
+/* BaskervilleBT */
+@font-face {
+  font-family: 'BaskervilleBT';
+  src: url('font/BaskervilleBT.woff') format('woff');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'BaskervilleBT';
+  src: url('font/BaskervilleItalicBT.woff') format('woff');
+  font-weight: 500;
+}
+
+
+
+/* Playfair Display */
+@font-face {
+  font-family: 'PlayfairDisplay';
+  src: url('font/PlayfairDisplay-Regular.woff') format('woff');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'PlayfairDisplay';
+  src: url('font/PlayfairDisplay-Medium.woff') format('woff');
+  font-weight: 500;
+}
+
+
+
+/* Claster Oleander */
+@font-face {
+  font-family: 'Claster Oleander';
+  src: url('font/Claster Oleander.woff') format('woff');
+}
+
+
+
+/* GTEAPAC */
+@font-face {
+  font-family: 'GTEAPAC';
+  src: url('font/GTEAPAC.woff') format('woff');
+}
+
+
+
+/* GENTO DREAM */
+@font-face {
+  font-family: 'GENTO DREAM';
+  src: url('font/GENTO DREAM.woff') format('woff');
+}
+
+
+
+/* Assassin */
+@font-face {
+  font-family: 'Assassin';
+  src: url('font/Assassin.woff') format('woff');
+}
+
+
+
+/* TT Hoves Pro */
+@font-face {
+  font-family: 'TT';
+  src: url('font/TT Hoves Pro Trial Regular.woff') format('woff');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'TT';
+  src: url('font/TT Hoves Pro Trial Medium.woff') format('woff');
+  font-weight: 500;
+}
+
+
+
+/* Zofiere */
+@font-face {
+  font-family: 'Zofiere';
+  src: url('font/Zofiere.woff') format('woff');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'Zofiere';
+  src: url('font/Zofiere Italic.woff') format('woff');
+  font-weight: 500;
+}
+
+
+
+/* Akira */
+@font-face {
+  font-family: 'Akira';
+  src: url('font/Akira Expanded.woff') format('woff');
+}
+
+
+
+/* Bebas */
+@font-face {
+  font-family: 'Bebas';
+  src: url('font/BebasNeue Regular.woff') format('woff');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'Bebas';
+  src: url('font/BebasNeue Bold.woff') format('woff');
+  font-weight: 500;
+}
+
+
+
+
+/* Quandco */
+@font-face {
+  font-family: 'Quandco';
+  src: url('font/Quandco.woff') format('woff');
+}
+
+
+
+
+/* mademountain */
+@font-face {
+  font-family: 'mademountain';
+  src: url('font/mademountain-regular.woff') format('woff');
+}
+
+
+
+
+/* Selino */
+@font-face {
+  font-family: 'Selino';
+  src: url('font/Selino-Regular.woff') format('woff');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'Selino';
+  src: url('font/Selino-Italic.woff') format('woff');
+  font-weight: 500;
+}
+
+
+
+/* LaborUnion */
+@font-face {
+  font-family: 'LaborUnion';
+  src: url('font/LaborUnion-Regular.woff') format('woff');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'LaborUnion';
+  src: url('font/LaborUnion-Small.woff') format('woff');
+  font-weight: 500;
+}
